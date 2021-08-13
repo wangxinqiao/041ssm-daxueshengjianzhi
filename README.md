@@ -4,11 +4,13 @@ ssm大学生兼职论坛
 
 #### 介绍
 ```
-大学生兼职平台采用了spring mvc，spring，mybatis的框架组合，适合刚学完这些框架且打算做互联网项目的同学参考。兼职论坛分为前台和后台功能，前台可以在论坛中发布一些信息，后台可以对信息进行审核。
+大学生兼职平台采用了spring mvc，spring，mybatis的框架组合，适合刚学完这些框架且打算做互联网项目的同学参考。
+兼职论坛分为前台和后台功能，前台可以在论坛中发布一些信息，后台可以对信息进行审核。
 整体功能包括：论坛交流，帖子发布，个人中心，用户管理，聊天管理，帖子管理。
 ```
 
-源码获取：[点此获取](http://www.shuyue.fun/?type=productinfo&id=142)
+源码获取：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=142)
+演示视频：[ **点此查看** ](https://www.bilibili.com/video/BV1mo4y12724/)
 
 #### 环境需要
 ```
@@ -22,7 +24,8 @@ ssm大学生兼职论坛
 
 #### 技术栈
 ```
-1. Spring SpringMVC MyBatis
+1. 后端：Spring SpringMVC MyBatis
+2. 前端：JSP+jQuery+Layui
 ```
 
 #### 使用说明
